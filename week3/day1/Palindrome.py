@@ -1,9 +1,9 @@
 
-def Palindrome(str1):
+def createPalindrome(str1):
     result = ""
     for x in str1:
         result = x + result
     return str1 + result
 
 
-print(Palindrome("123"))
+print(createPalindrome("123"))
