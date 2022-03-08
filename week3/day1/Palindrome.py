@@ -6,4 +6,4 @@ def Palindrome(str1):
     return str1 + result
 
 
-print(Palindrome("alireza"))
+print(Palindrome("123"))
