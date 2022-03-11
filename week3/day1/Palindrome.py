@@ -1,4 +1,5 @@
 
+
 def createPalindrome(str1):
     result = ""
     for x in str1:
