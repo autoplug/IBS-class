@@ -1,15 +1,18 @@
-def decorate_add(func):
-    def inner(a, b):
-        print("before func")
-        result = func(a, b)
-        print("End of func")
-        return result
+from time import *
+
+
+def time_calculation(func):
+    def inner(*a):
+        result = time()
+        r = func(*a)
+        print(time()-result)
+        return r
     return inner
 
 
-@decorate_add
+@time_calculation
 def add(a, b):
-    return a+b
+    return a + b
 
 
 print(add(4, 5))
