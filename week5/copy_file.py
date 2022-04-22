@@ -1,4 +1,7 @@
-def copy_file(src, dest):
-    result = True
+# you can write to stdout for debugging purposes, e.g.
+# print("this is a debug message")
 
-    return result
+def solution(S):
+    # write your code in Python 3.6
+
+    pass
