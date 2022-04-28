@@ -1,0 +1,22 @@
+1.What is a Hash Table? How can we use this structure to find all anagrams in a dictionary?
+
+A Hash table is a data structure for storing values to keys of arbitrary type. The Hash table consists of an index into an array by using a Hash function. Indexes are used to store the elements. We assign each possible element to a bucket by using a hash function. Multiple keys can be assigned to the same bucket, so all the key and value pairs are stored in lists within their respective buckets. Right hashing function has a great impact on performance.
+-----------------------------------------------------
+2.What is Dijkstra's shortest path algorithm?
+
+Dijkstra's algorithm is an algorithm for finding the shortest path from a starting node to the target node in a weighted graph. The algorithm makes a tree of shortest paths from the starting vertex and source vertex to all other nodes in the graph.
+
+Suppose you want to go from home to office in the shortest possible way. You know some roads are heavily congested and challenging to use this, means these edges have a large weight. In Dijkstra's algorithm, the shortest path tree found by the algorithm will try to avoid edges with larger weights.
+-----------------------------------------------------
+3.What Are The Criteria Of Algorithm Analysis?
+
+An algorithm is generally analyzed by two factors.
+
+  I.Time complexity
+ II.Space complexity
+
+Time complexity deals with the quantification of the amount of time taken by a set of code or algorithm to process or run as a function of the amount of input. In other words, the time complexity is efficiency or how long a program function takes to process a given input.
+
+Space complexity is the amount of memory used by the algorithm to execute and produce the result.
+-----------------------------------------------------
+4.

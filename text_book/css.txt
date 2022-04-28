@@ -1,0 +1,78 @@
+1.CSS Combinators : Descendant Selector
+
+The following example selects all <p> elements inside <div> elements:
+
+div p {
+  background-color: yellow;
+}
+-----------------------------------------------------
+2.CSS Combinators : Child Selector (>)
+
+The following example selects all <p> elements that are children of a <div> element:
+div > p {
+  background-color: yellow;
+}
+-----------------------------------------------------
+3.CSS Attribute Selectors : CSS [attribute] Selector
+The following example selects all <a> elements with a target attribute:
+a[target] {
+  background-color: yellow;
+}
+-----------------------------------------------------
+4.CSS Attribute Selectors : CSS [attribute="value"] Selector
+The following example selects all <a> elements with a target="_blank" attribute:
+a[target="_blank"] { 
+  background-color: yellow;
+}
+-----------------------------------------------------
+5.CSS Attribute Selectors : CSS [attribute~="value"] Selector
+The following example selects all elements with a title attribute that contains a space-separated list of words, one of which is "flower":
+[title~="flower"] {
+  border: 5px solid yellow;
+}
+-----------------------------------------------------
+6.CSS Attribute Selectors : CSS [attribute|="value"] Selector
+The following example selects all elements with a class attribute value that begins with "top":
+[class|="top"] {
+  background: yellow;
+}
+"top-header"    -->not "topcontent"
+-----------------------------------------------------
+7.CSS Attribute Selectors : CSS [attribute^="value"] Selector
+The following example selects all elements with a class attribute value that begins with "top":
+[class^="top"] {
+  background: yellow;
+}
+"top-header","topcontent"
+-----------------------------------------------------
+8.CSS Attribute Selectors : CSS [attribute*="value"] Selector
+The following example selects all elements with a class attribute value that contains "te":
+[class*="te"] {
+  background: yellow;
+}
+"first_test","tefdt","myte"
+-----------------------------------------------------
+9.CSS Attribute Selectors : CSS [attribute$="value"] Selector
+The following example selects all elements with a class attribute value that ends with "test":
+[class$="test"] {
+  background: yellow;
+}
+"test","motest","ie-test" -->not "test ","0test0"
+-----------------------------------------------------
+7.
+#example1 {
+  background-image: url(img_flwr.gif), url(paper.gif);
+  background-position: right bottom, left top;
+  background-repeat: no-repeat, repeat;
+}
+
+#example1 {
+  background: url(img_flwr.gif) right bottom no-repeat, url(paper.gif) left top repeat;
+}
+
+-----------------------------------------------------
+
+
+
+
+
