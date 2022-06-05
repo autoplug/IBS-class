@@ -1,0 +1,102 @@
+https://docs.google.com/document/d/1v5zw2n_5jGUmS1XqYgiFzD6coqoXiRr7KPCB0VobhkQ/edit?usp=sharing
+============================================================================================
+0.What kind of comparability problems might one encounter in the field of accounting when comparing firms headquartered in different countries? Provide general and specific examples as well, if possible.
+
+
+
+
+
+============================================================================================
+1.Provide a critical analysis of the depreciation concept: why is it needed and what are its drawbacks. Illustrate with your own examples.
+
+The term depreciation refers to an accounting method used to allocate the cost of a tangible or physical asset over its useful life. Depreciation represents how much of an asset's value has been used. It allows companies to earn revenue from the assets they own by paying for them over a certain period of time. Because companies don't have to account for them entirely in the year the assets are purchased, the immediate cost of ownership is significantly reduced. Not accounting for depreciation can greatly affect a company's profits. Companies can also depreciate long-term assets for both tax and accounting purposes.
+
+Disadvantages of Depreciation:
+Despite a majority advocating depreciation, there are a few disadvantages of it one cannot ignore at any cost. Most bits of office hardware, apparatus, and different things obtained at a given time do not perform the very same every year. With an increase in the assets age they become less proficient. Fix costs for the most part increment after some time. Straight-line depreciation does not represent the loss of effectiveness or the expansion in fix costs throughout the years and is, in this way, not as appropriate for expensive assets, for example, plant and gear. The practical life expectancy of certain assets can not unmistakably be evaluated. The straight-line depreciation technique ought not be utilized when the helpful existence of an asset is incalculable.
+
+Example:
+Let's assume that if a company buys a piece of equipment for $50,000, it may expense its entire cost in year one or write the asset's value off over the course of its 10-year useful life. This is why business owners like depreciation. Most business owners prefer to expense only a portion of the cost, which can boost net income.
+The company can also scrap the equipment for $10,000 at the end of its useful life, which means it has a salvage value of $10,000. Using these variables, the accountant calculates depreciation expense as the difference between the asset's cost and its salvage value, divided by its useful life. The calculation in this example is ($50,000 - $10,000) / 10. This results in a total of $4,000 of depreciation expenses per year.
+As such, the company's accountant does not have to expense the entire $50,000 in year one, even though the company paid out that amount in cash. Instead, the company only has to expense $4,000 against net income. The company expenses another $4,000 next year and another $4,000 the year after that, and so on until the asset reaches its $10,000 salvage value in 10 years.
+
+Advantage and Disadvantage
+https://nickxenophon.com.au/06/2019/1365/advantages-and-disadvantages-of-depreciation-in-accounting/
+
+
+
+
+
+
+
+DAVOOOOOOOOD
+Depreciation is a non-cash expense in financial statements that illustrates how much of a fixed asset's value has been consumed over time.
+The straight-line technique is the most basic way of computing depreciation. The annual depreciation cost is assumed fixed over the useful life of an asset in the straight-line technique, and the cost typically remains constant over the useful life of the asset, such that depreciation periods are utilized at the end of the useful life of the asset. It is equal to the asset's initial cost minus the value intended for disposal over its useful lifetime. Depreciation is regularly recorded as an expense in the financial statements as the asset's useful life decreases.
+Depreciation is effective before tax as an expense in profit or loss. Depreciation also reduces tax, which is known as the tax shield. In this regard, the significance of calculating and recording depreciation in financial statements and balance sheets is established; depreciation is reflected cumulatively in the balance sheet, and its amount is deducted from fixed assets. In contrast, depreciation diminishes equity (by reducing accumulated dividends). As previously stated, depreciation is a non-cash expense and so does not flow into cash. Depreciation, in other words, has no direct impact on cash flow.
+
+For example, a factory spent ten million euros on a new machine. We estimate that this equipment has a useful life of ten years and maybe be sold for one million euros after that, which indicates that its salvage value is one million euros, so the annual depreciation of this equipment using the straight-line method is 900 thousand euros per year. One of the challenges in calculating depreciation is determining the salvage value accurately because predicting the selling price after ten years is difficult.
+In conclusion, calculating depreciation as an expense and recording it in financial statements and balance sheets is critical since it can minimize the tax, while also allowing for a more precise estimate of profits and losses from the operation of machines or other fixed assets.
+
+
+
+
+============================================================================================
+2.Why are adjustment entries in accounting (specifically accruals) important? What are the advantages and disadvantages of such entries? Give examples.
+
+Adjustment entries are used to convert cash transactions to the accrual accounting method. Accrual accounting is founded on the revenue recognition principle, which states that revenue should be recognized when it is earned rather than when it is received in cash.
+The accountant can give a more accurate picture of the company's finances by adjusting entries. The owner can read through the financial statements knowing that everything that occurred during the month is reported even if the financial part of the transaction will occur later.
+
+An accrual-based accounting system requires adjusting entries on a regular basis. Its benefits include keeping the accounts in order and matching revenues and costs to the periods in which they are earned or incurred.
+
+For example, on December 1, a corporation with a fiscal year ending December 31 takes out a loan from a bank. Interest payments are due every three months, according to the loan's terms. In this case, the company’s first interest payment is to be made March 1. However, the company still needs to accrue interest expenses for the months of December, January, and February.
+Since the firm is set to release its year-end financial statements in January, an adjusting entry is needed to reflect the accrued interest expense for December. To accurately report the company’s operations and profitability, the accrued interest expense must be recorded on the December income statement, and the liability for the interest payable must be reported on the December balance sheet. The adjusting entry will debit interest expense and credit interest payable for the amount of interest from December 1 to December 31.
+
+
+============================================================================================
+3.The difference between financial accounting and management accounting?
+
+Management accounting, also referred to as managerial accounting, is used by managers and directors to make decisions regarding the daily operations of a company. A distinguishing feature of managerial accounting is that it is not based on past performance, but on current and future trends. For example, determining how much your business should charge for a new product and analyzing how much revenue a future product line is capable of generating are both examples of business problems within the field of managerial accounting. So, too, is deciding when to replace the computers in your offices. Since business leaders constantly need to make operational decisions in a short amount of time, management accounting must rely on predicting markets and future trends.
+
+Financial accounting is used to present the financial health of a company to external stakeholders. This allows the board of directors, stockholders, potential investors, creditors and financial institutions to see how the company has performed during a specific period of time in the past. These reports are filed on an annual basis. If a business is considered a publicly-traded company on the stock market, the reports must be made part of the public record. In a financial accounting course, students learn how to prepare, read and analyze financial statements.
+
+There are two primary differences between financial and management accounting. The first difference is that management accounting is presented to a company’s internal community, while financial accounting is prepared for an external audience. Even though financial accounting is of great importance to current and potential investors, management accounting is necessary for managers to make current and future financial decisions for their business. The second difference is that financial accounting is exact and must adhere to Generally Accepted Accounting Principles (GAAP), while management accounting can be based off a guess or estimate since most managers do not have time to get exact numbers by the time a decision needs to be made.
+============================================================================================
+4.The difference between IFRS and U.S. GAAP
+
+IFRS is a globally adopted method for accounting, while GAAP is exclusively used within the United States. GAAP focuses on research and is rule-based, whereas IFRS looks at the overall patterns and is based on principle. GAAP uses the Last In, First Out (LIFO) method for inventory estimates.
+
+1.Adoption:IFRS is a globally adopted method for accounting, while GAAP is exclusively used within the United States.
+
+https://exeedcollege.com/blog/difference-between-gaap-and-ifrs/
+
+
+============================================================================================
+5.Yield to Maturity in bond 
+
+A bond's yield to maturity (YTM) is the internal rate of return required for the present value of all the future cash flows of the bond (face value and coupon payments) to equal the current bond price. YTM assumes that all coupon payments are reinvested at a yield equal to the YTM and that the bond is held to maturity.
+
+
+
+
+
+============================================================================================
+6.The adjusting process in prospective  /////  Adjustments to accounts
+
+adjusting process. The analysis and updating of accounts at the end of the period before the financial statements are prepared.
+
+For example: In August, you bill a customer $5,000 for services you performed. They pay you in September. In August, you record that money in accounts receivable—as income you're expecting to receive. Then, in September, you record the money as cash deposited in your bank account.
+
+============================================================================================
+7.How is financial reporting regulated? What is difference between The us and Eu regulation?
+
+We show that changes in financing and investment patterns for impacted firms are consistent with expectations from the pecking order theory using the new financial reporting requirement as a setting with a regulatory change in the information environment of affected firms.
+============================================================================================
+
+According to Bayer's 2021 and 2020 reports, the company's profitability and return on equity (ROE) increased significantly in 2021. According to the chairman's message, Bayer as a pharmaceutical firm may play a key role in this market due to the conditions, and with the correct investment at the right moment, it has been able to achieve tremendous growth, which we will explore later.
+In the most recent report, the company's ROE increased by more than 108% when compared to 2020, which appears to be attributed to a 120% raise. On the other hand, the company's overall costs have fallen by more than 28% in 2021, according to the operating profit margin. The company's tax burden has been lowered by more than half, which has a direct impact on net profit.
+Total asset turnover increased by more than 9% in 2021, showing strong asset performance for this year, according to ratios. Pfizer's current ratio is 1.4, Bayer's is 1.11, and Pfizer's cash ratio is 0.73, while Bayer's is 0.27, which is less than half of Pfizer's.
+We can point to a more than 3% rise in the company's inventory, which most likely had a good impact on the 6.5 percent growth in sales, and the increase in sales might also be the key driver in the more than 23 percent increase in receivables.
+We can point to a more than 3% rise in the company's inventory, which most likely had a good impact on the 6.5 percent growth in sales, and the increase in sales might also be the key driver in the more than 23 percent increase in receivables.
+To conclude, the increase in revenue as well as the growth in profits of this corporation, and of course, the entire pharmaceutical sector, has had the largest influence on food consumption and society's requirements for products, services, and pharmaceuticals this year. The influence of sales and taxes on the company's financial statements has been significant.
+
+
+
