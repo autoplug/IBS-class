@@ -1,0 +1,12 @@
+# Mean
+add up all the numbers, then divide by how many numbers there are.
+
+# Median Value
+The Median is the "middle" of a sorted list of numbers.
+To find the Median, place the numbers in value order and find the middle.
+
+# Standard Deviation
+The Standard Deviation is a measure of how spread out numbers are.
+
+# Variance
+The average of the squared differences from the Mean.

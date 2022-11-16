@@ -1,0 +1,162 @@
+Iman: Case 11.1 (Heating Oil at Dupree Fuels Company)
+Asa:  case 9.3 (The Wichita Anti–Drunk Driving Advertising Campaign)
+
+
+USING REGRESSION TO PERFORM ANOVA
+
+When would you use a regression in ANOVA?
+
+Regression is used on variables that are fixed or independent in nature and can be done with the use of a single independent variable or multiple independent variables. ANOVA is used to find a common between variables of different groups that are not related to each other.
+===================================================================
+How do you do regression in ANOVA?
+
+Analysis of Variance (ANOVA) consists of calculations that provide information about levels of variability within a regression model and form a basis for tests of significance. The basic regression line concept, DATA = FIT + RESIDUAL, is rewritten as follows: (yi - ) = ( i - ) + (yi - i).
+===================================================================
+Is ANOVA based on regression?
+
+The analysis of variance (ANOVA) is a method that occurs within regression models.
+===================================================================
+Can you use both ANOVA and regression?
+
+To clarify: ANOVA can be applied to any regression model (no matter if the model contains only continuous, only categorical, or both kinds of predictors).
+===================================================================
+What is the difference between t tests and ANOVA versus regression?
+
+The main difference is that t-tests and ANOVAs involve the use of categorical predictors, while linear regression involves the use of continuous predictors. When we start to recognise whether our data is categorical or continuous, selecting the correct statistical analysis becomes a lot more intuitive.
+===================================================================
+Which is better ANOVA or regression?
+
+ANOVA is most commonly defined as a different or an alternative case of Regression but from the perspective of the users, there is a different flavor if the independent variable is categorical. You must use ANOVA otherwise the user should use regression analysis for better results and more in-depth analysis of the data.
+===================================================================
+Is ANOVA multiple linear regression?
+
+As pointed out in the other answer, an ANOVA is a multiple regression.
+===================================================================
+What is regression in ANOVA table?
+
+It is the sum of the square of the difference between the predicted value and mean of the value of all the data points. From the ANOVA table, the regression SS is 6.5 and the total SS is 9.9, which means the regression model explains about 6.5/9.9 (around 65%) of all the variability in the dataset.
+===================================================================
+What does ANOVA mean in regression?
+
+we will study is often referred to as the oneway ANOVA. ANOVA is an acronym for ANalysis Of VAriance. The adjective oneway means that there is a single variable that defines group membership (called a factor). Comparisons of means using more than one variable is possible with other kinds of ANOVA analysis.
+===================================================================
+How is an ANOVA like a multiple regression?
+
+In ANOVA the independent variables are most often categorical in nature, and are usually termed the "factors" of the analysis. "Multiple regression" is very much like ANOVA: the independent variable set is multivariate (contains more than one variable), while the dependent set is univariate.
+===================================================================
+Is an ANOVA a linear model?
+
+
+Once again, we see that ANOVA and regression are essentially the same: they are both linear models, and the underlying statistical machinery for ANOVA is identical to the machinery used in regression.
+===================================================================
+What is ANOVA in regression excel?
+
+The ANOVA (analysis of variance) table splits the sum of squares into its components. = Residual (or error) sum of squares + Regression (or explained) sum of squares. and ybar is the sample mean of y. = 0.8025 (which equals R2 given in the regression Statistics table).
+===================================================================
+When might one use an ANOVA program instead of a multiple regression program?
+
+However, these two types of models share the following difference: ANOVA models are used when the predictor variables are categorical. Examples of categorical variables include level of education, eye color, marital status, etc. Regression models are used when the predictor variables are continuous.
+===================================================================
+Does ANOVA test correlation?
+
+ANOVA like regression uses correlation, but it constrols statistically for other independent variables in your model by focusing on the unique variation in the DV explained by the IV. That is the covariation between a IV and DV not explained by any other IV.
+===================================================================
+Should I use t-test or linear regression?
+
+The t-test statistic helps to determine how linear, or nonlinear, this linear relationship is. The linear regression model is used to predict the value of a continuous variable, based on the value of another continuous variable. In most cases, linear regression is an excellent tool for prediction.
+===================================================================
+What is the t-test used for in regression?
+
+The t\,\! tests are used to conduct hypothesis tests on the regression coefficients obtained in simple linear regression. A statistic based on the t\,\! distribution is used to test the two-sided hypothesis that the true slope, \beta_1\,\!, equals some constant value, \beta_{1,0}\,\!.
+===================================================================
+Can ANOVA be used for 2 groups?
+
+Typically, a one-way ANOVA is used when you have three or more categorical, independent groups, but it can be used for just two groups (but an independent-samples t-test is more commonly used for two groups).
+===================================================================
+What is F value in regression?
+
+The F value in regression is the result of a test where the null hypothesis is that all of the regression coefficients are equal to zero. In other words, the model has no predictive capability.
+===================================================================
+What is p-value in regression?
+
+The P-value is a statistical number to conclude if there is a relationship between Average_Pulse and Calorie_Burnage. We test if the true value of the coefficient is equal to zero (no relationship). The statistical test for this is called Hypothesis testing.
+===================================================================
+How do you interpret F statistic in regression?
+
+Interpreting the Overall F-test of Significance
+Compare the p-value for the F-test to your significance level. If the p-value is less than the significance level, your sample data provide sufficient evidence to conclude that your regression model fits the data better than the model with no independent variables.
+===================================================================
+What is the null hypothesis for ANOVA for a regression equation?
+
+The null hypothesis states that all coefficients in the model are equal to zero. In other words, none of the predictor variables have a statistically significant relationship with the response variable, y.
+===================================================================
+How do you Analyse multiple regression results?
+
+
+Step 1: Determine which terms contribute the most to the variability in the response. ...
+Step 2: Determine whether the association between the response and the term is statistically significant. ...
+Step 3: Determine how well the model fits your data. ...
+Step 4: Determine whether your model meets the assumptions of the analysis.
+===================================================================
+What are the assumptions for ANOVA?
+
+There are three primary assumptions in ANOVA: The responses for each factor level have a normal population distribution. These distributions have the same variance. The data are independent.
+===================================================================
+Is regression same as correlation?
+
+Correlation quantifies the strength of the linear relationship between a pair of variables, whereas regression expresses the relationship in the form of an equation.
+===================================================================
+How are ANOVA and regression intimately related?
+
+So an ANOVA reports each mean and a p-value that says at least two are significantly different. A regression reports only one mean(as an intercept), and the differences between that one and all other means, but the p-values evaluate those specific comparisons.
+===================================================================
+What hypothesis is tested with ANOVA for a multiple linear regression model?
+
+The appropriate test of statistical significance here is the F test, which compares the ratio of the two variances to values found in F distribution tables. The general test in the ANOVA model tests the null hypothesis that all of the group means are equal.
+===================================================================
+How is R Squared calculated in ANOVA?
+
+
+R2 = 1 - SSE / SST. in the usual ANOVA notation. ...
+R2adj = 1 - MSE / MST. since this emphasizes its natural relationship to the coefficient of determination. ...
+R-squared = SS(Between Groups)/SS(Total) The Greek symbol "Eta-squared" is sometimes used to denote this quantity. ...
+R-squared = 1 - SS(Error)/SS(Total) ...
+Eta-squared =
+===================================================================
+Does ANOVA require linearity?
+
+There is no formal linearity assumption regarding variables in a linear regression and there can also be non-linear interaction terms between different categorical variables in an ANOVA.
+===================================================================
+Why is regression needed?
+
+Typically, a regression analysis is done for one of two purposes: In order to predict the value of the dependent variable for individuals for whom some information concerning the explanatory variables is available, or in order to estimate the effect of some explanatory variable on the dependent variable.
+===================================================================
+How do I know which statistical test to use?
+
+If distribution of the data is not normal or if one is not sure about the distribution, it is safer to use non-parametric tests. When comparing more than two sets of numerical data, a multiple group comparison test such as one-way analysis of variance (ANOVA) or Kruskal-Wallis test should be used first.
+===================================================================
+Why is ANOVA better than multiple t-tests?
+
+Two-way anova would be better than multiple t-tests for two reasons: (a) the within-cell variation will likely be smaller in the two-way design (since the t-test ignores the 2nd factor and interaction as sources of variation for the DV); and (b) the two-way design allows for test of interaction of the two factors
+===================================================================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

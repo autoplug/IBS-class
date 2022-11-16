@@ -1,0 +1,8 @@
+# Python quickstart
+https://developers.google.com/drive/api/quickstart/python
+
+# Create Service
+https://learndataanalysis.org/google-drive-api-in-python-getting-started-lesson-1/
+
+# Scopes
+https://developers.google.com/drive/api/guides/api-specific-auth

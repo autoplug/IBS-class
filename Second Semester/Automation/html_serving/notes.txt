@@ -1,0 +1,13 @@
+Server Side (Client & Server)
+client - request, server - response
+
+communications via protocols http (https, ...) - set of rules
+IP address (computer identifier) : domain: google.com > resovled to an IP 192.xxx.xxx.xx
+socket (the channel of the communication)
+
+e.g.: two foreign ppl speaking via phone (=socket) in english (=protocol)
+
+Protocols: HTTP, HTTPs, FTP, TCP, mysql...
+
+Ports: 80, 5000, ...
+

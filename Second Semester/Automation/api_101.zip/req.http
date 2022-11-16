@@ -1,0 +1,8 @@
+#health
+#hello
+#multiple_method
+
+#http://localhost:5000/hello?name=Me
+
+#POST http://localhost:5000/multiple_method
+GET http://localhost:4000/multiple_method

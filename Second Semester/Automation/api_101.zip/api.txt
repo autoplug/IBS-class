@@ -1,0 +1,25 @@
+WEB (front-end) - API - Heavy Duty, Python, ... (Back-end)
+
+API - Application Programing Interface
+(Web API vs Service API)
+
+HTTP / HTTPS (Hypertext Transfer Protocol)
+- request (method, address, head, body, ...)
+- response (status code, head, body)
+
+REQUEST:
+method: GET, POST, PATCH, PUT, DELETE, ... https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods
+adrress: from who you are requesting (IP4, IP6, Domain name)
+head: meta, encoding, username, password, token....
+body: main part, data to be processed
+
+RESPONSE:
+- status code: "error-handling", 200, 404, 500, https://rapidapi.com/guides/http-status-code?utm_source=google&utm_medium=cpc&utm_campaign=DSA&gclid=Cj0KCQjw1vSZBhDuARIsAKZlijQPwN7KmkVFPAR4PVKpwEkXi7kStckdxa0-ZEqAxTwn-cjwf5mSIBsaAnXtEALw_wcB
+- head: ...
+- body: ...
+
+API type:
+- REST: JSON
+- SOAP: XML format exchanged
+- GrapQL: more flexible...
+

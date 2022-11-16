@@ -1,0 +1,13 @@
+Google Drive Api
+----------------
+- simple service (enable, token, install pkgs)
+- create folder
+- upload files (csv, json, jpeg)
+- csv2GoogleSpreadsheet
+
+
+Spreadsheet App Scripts
+-----------------------
+- make simple logger (enable, access the "terminal")
+- cell manipulation (read and write values)
+- build up a question form
