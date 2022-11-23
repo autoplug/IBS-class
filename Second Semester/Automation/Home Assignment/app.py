@@ -8,8 +8,7 @@ from crawl.billboard import Billboard
 #
 # Get the List of celebrities
 topRanks = Billboard()
-print(topRanks.artists)
-exit()
+
 #
 #
 #
@@ -41,6 +40,7 @@ excel_sheet.append("A1", [["", ""]+[f"{topRanks.weeks[0]}"]+topRanks.artists])
 script = Script()
 if scriptId is None:
     script.create("script")
+    print("You need To run the script file inside of google drive to get the permissions to it.")
 else:
     script.scriptId = scriptId
     print("scriptId", scriptId)

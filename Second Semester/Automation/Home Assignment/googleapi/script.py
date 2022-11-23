@@ -33,8 +33,8 @@ class Script(Authentication):
 
     def __init__(self):
         super().__init__()
-        # with open("gs/create.gs.js") as sc:
-        #     self.SAMPLE_CODE = sc.read()
+        with open("gs/create.gs.js") as sc:
+            self.SAMPLE_CODE = sc.read()
 
         self.service = build('script', 'v1', credentials=self.creds)
 

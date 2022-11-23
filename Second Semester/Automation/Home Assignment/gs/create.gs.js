@@ -4,11 +4,12 @@ function myFunction() {
   ScriptApp.getProjectTriggers().map((_trigger) => {
     ScriptApp.deleteTrigger(_trigger);
   });
-
+  createForm();
   ScriptApp.newTrigger("createForm")
     .forSpreadsheet(sheet.getId())
     .onChange()
     .create();
+  createForm();
 }
 
 function createForm() {

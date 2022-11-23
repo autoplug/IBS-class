@@ -1,0 +1,53 @@
+What is the difference between a bonds (fix-income securities) and a shares (stocks) considering the following points: investment characteristic from the ownership (issuer/holder) point of view, investment time horizon (maturity), types of cash flows and returns schedule. In which cases bond or stock issuance and investment could be optimal/ideal? Give examples!
+
+
+Shares and bonds are both types of investment securities. When an investor buys shares they are buying part of a company; when they buy bonds, they are lending money to a company.
+
+Shares have the ability to generate higher returns than bonds. If a company experiences a period of growth or high profitability, it is likely that an equity investment will deliver significantly higher returns than a bond investment.
+
+With a bond, investors know how much income they will receive and when they will receive it.
+
+Bonds, as opposed to shares, are temporary investments with fixed lifecycles.
+
+Shares are typically riskier than bonds and have unpredictable returns.
+
+When it comes to risk, there’s a general rule of thumb in investing. The riskier an investment is, the higher the potential to make a gain… but the chance of a loss is also higher. Shares are generally deemed riskier than bonds because swings in price are more severe.
+
+
+An example of a fixed-rate bond:
+-An investor makes an initial investment of $10,000 in a fixed-rate bond when it is first issued. The bond has a coupon of 5% and will mature on 21 September 2023.
+
+-Whilst the investor holds this bond they receive annual interest (coupon payments) of $500.
+
+-These payments are generally made twice a year for fixed-rate bonds. Payments are on set dates which the investor knows in advance.
+
+-If interest rates change (either up or down) whilst the investor holds this bond, they will still receive the 5% coupons each year.
+
+-When the bond matures on 21 Sep 2023, the investor receives their $10,000 investment back, and their final coupon payment.
+
+==================================================
+Investments that are more volatile tend to have higher returns. An investment with a higher standard deviation means it will be more risky and volatile. Therefore, the expected return should also be higher.
+
+==================================================
+EPS (Earning per share) doesn’t tell you anything. It is simply Net Income divided by the number of shares outstanding.
+
+ROE tells you how much net income a company produces for every dollar of equity investment (without taking into account debt investment).
+==================================================
+
+Preferential dividend rights allow the holders of the preference shares to receive a preferential dividend in priority to the holders of the ordinary shares.
+
+==================================================
+Introduce main types of orders, instruction you can give to your broker in terms of time validity, execution type. Summarize c sort of costs and commissions you should be charged by your trading house/brokerage company?
+
+
+Market orders, limit orders, and stop orders are common order types used to buy or sell stocks.
+
+A market order is an order to buy or sell a stock at the market's best available current price. A market order typically guarantees execution but does not guarantee a specific price. Market orders are optimal when the primary concern is immediately executing the trade. A market order is generally appropriate when you think a stock is suitably priced, when you're sure you want a fill on your order, or when you want immediate execution. 
+
+A limit order is an order to buy or sell a stock with a restriction on the maximum price to be paid or the minimum price to be received (the "limit").
+If the order is filled, it will only be at the specified limit price or better. However, execution is not guaranteed, because even if the stock reaches the specified limit price, it's possible that orders ahead of yours may exhaust the availability of shares at that price, so your order cannot be executed. (Limit orders are generally executed on a first-come, first-served basis.)
+
+A stop order is an order to buy or sell a stock at the market price once the stock has traded at or through a specified price (the "stop").
+A stop order serves as a kind of automatic entry or exit trigger upon a certain level of price movement in a specified direction; it is often used to attempt to protect an unrealized gain or minimize a loss. However, while it provides some level of price control, like a market order, a stop order could be executed at a price much different than expected in a fast-moving market.
+
+
