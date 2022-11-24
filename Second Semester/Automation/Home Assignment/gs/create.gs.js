@@ -1,15 +1,16 @@
 function myFunction() {
   var sheet = SpreadsheetApp.openById(getId("TopRanks"));
 
-  ScriptApp.getProjectTriggers().map((_trigger) => {
-    ScriptApp.deleteTrigger(_trigger);
-  });
+  var triggers = ScriptApp.getProjectTriggers();
+  for (var i = 0; i < triggers.length; i++)
+    ScriptApp.deleteTrigger(triggers[i]);
+
   createForm();
+
   ScriptApp.newTrigger("createForm")
     .forSpreadsheet(sheet.getId())
     .onChange()
     .create();
-  createForm();
 }
 
 function createForm() {
@@ -18,20 +19,22 @@ function createForm() {
   var last_row = values[values.length - 1];
   var form_name = last_rank_name();
 
-  var form = getId(form_name)
-    ? FormApp.openById(getId(form_name))
+  var form = last_row[0]
+    ? FormApp.openById(last_row[0])
     : FormApp.create(form_name);
 
-  for (var i = 3; i < last_row.length; i++) {
-    form
-      .addMultipleChoiceItem()
-      .setTitle(last_row[i])
-      .setChoiceValues(["1", "2", "3", "4", "5"])
-      .showOtherOption(false);
+  if (!last_row[0]) {
+    for (var i = 3; i < last_row.length; i++) {
+      form
+        .addMultipleChoiceItem()
+        .setTitle(last_row[i])
+        .setChoiceValues(["1", "2", "3", "4", "5"])
+        .showOtherOption(false);
+    }
   }
 
-  var responseForm = getId(form_name + " (response)")
-    ? SpreadsheetApp.openById(getId(form_name))
+  var responseForm = last_row[1]
+    ? SpreadsheetApp.openById(last_row[1])
     : SpreadsheetApp.create(form_name + " (response)");
 
   sheet.getRange("A" + sheet.getLastRow()).setValue(form.getId());
@@ -62,15 +65,26 @@ function saveResponse(formId, responseId) {
   var formResponses = form.getResponses();
 
   for (var k = 0; k < form.getItems().length; k++) {
-    let row = String.fromCharCode(67 + k);
+    var row = String.fromCharCode(67 + k);
+    response.getSheets()[0].getRange(2, 2).setValue("Average");
     response
       .getSheets()[0]
       .getRange(1, k + 3)
       .setValue(form.getItems()[k].getTitle());
+    var cell_formula =
+      "=IF(COUNT(" +
+      row +
+      "3:" +
+      row +
+      "),AVERAGE(" +
+      row +
+      "3:" +
+      row +
+      "),0)";
     response
       .getSheets()[0]
       .getRange(2, k + 3)
-      .setValue(`=AVERAGE(${row}3:${row})`);
+      .setValue(cell_formula);
   }
 
   for (var i = 0; i < formResponses.length; i++) {

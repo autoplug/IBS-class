@@ -28,7 +28,8 @@ class Authentication:
                   "https://www.googleapis.com/auth/script.external_request",
                   "https://www.googleapis.com/auth/drive.scripts",
                   "https://www.googleapis.com/auth/script.scriptapp",
-                  "https://www.googleapis.com/auth/script.webapp.deploy"]
+                  "https://www.googleapis.com/auth/script.webapp.deploy",
+                  "https://www.googleapis.com/auth/script.deployments"]
         creds = None
         if os.path.exists('json/token.json'):
             creds = Credentials.from_authorized_user_file(

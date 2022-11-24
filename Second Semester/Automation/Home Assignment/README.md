@@ -18,7 +18,8 @@ After you clone the git on your system you can follow steps below:
 
 3. If you run the app.py, you can see it create a "TopRanks" spreadsheet in google drive and a script file.
 
-   you need to run script and give the necessary permissions.
+   - you need to run script and give the necessary permissions.
+   - if you remove TopRanks from your google drive make sure you remove it from trash.
 
 4. It create spreadsheet in google drive and every month that code run based on scheduale it create new form and save the response of form inside a spreadsheet. You can see average and every vote in detail.
 
