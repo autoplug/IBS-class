@@ -1,0 +1,129 @@
+***Data Analytics 1***
+
+Please download the following data files that you will be required to work with:
+
+the_good_place_imdb.csv
+the_good_place_episodes.csv
+(Do not try to use the above Moodle links in your notebook. Just download the files, and then read them in as local files.)
+
+Read the_good_place_imdb.csv into a pandas dataframe.
+Plot imdb_rating and episode_num using a line plot for each column in a single plot (paying attention to differing scales).
+
+What conclusion can you draw from the plot?
+
+Use the pandas dataframe from the_good_place_imdb.csv.
+
+Create a "date" column that is the "original_air_date" as datetime values.
+
+Create a "month" column that contains as integers the month of the original air dates (e.g., 12 for December air dates).
+
+Get aggregate values: group by episode_num, and for the month variable get the number of unique values and the maximal values for each group.
+
+Display your aggregated values so that episode number values are increasing.
+
+If episode_num is the number of an episode in a season, what, if anything, can we conclude about the beginning and end of seasons for this series from these aggregate values?
+
+
+(Choose ONE of A and B!)
+Read the the_good_place_episodes.csv into a pandas dataframe. Both options A and B of this task require you to work with this dataframe.
+
+
+
+Task A: categorical variables
+You will be working on the non-numerical column directed_by.
+
+Create a new column first_letter that consists of the first letter of your original variable.
+
+One-hot encode the resulting first_letter variable, and then concatenate the new binary variables as new columns to your dataframe.
+
+What do you think, is there perfect multicollinearity between the new binary columns, taking into account the length of the Latin alphabet?
+
+Taking into account just your current binary variables derived from first_letter, how many possible value combinations can a new episode have, if a person's name can start with any letter of the Latin alphabet?
+
+Task B: missing values
+Display in a unified table the number of missing and the number of non-NA values by variable, but only for those variables that do have missing values. So, for example, assuming you have three columns col1, col2, col3, of which col1 and col3 have (respectively 19 and 3) missing values in them, then your table should look like the following:
+
+
+
+# NA
+
+# NON-NA
+
+col1
+
+19
+
+301
+
+col3
+
+3
+
+317
+
+Deal with the missing values in the column us_viewers, and explain why you chose the particular solution you did.
+
+Check the result of your operation in a way you see fit.
+
+
+(Choose ONE of A and B!)
+Use the pandas dataframe from the_good_place_imdb.csv.
+
+
+
+Task A: discretization
+Discretize imdb_rating as you see fit,
+
+then display the value counts for the discrete values.
+
+Task B: duplicates
+How many rows of your dataframe are duplicates (including the first instance!), taking into account only the original_air_date column? (E.g., if 1950-01-30 were the only air date that occurs more than once, and it occurred twice, then the answer would be 2.)
+
+Store the subdataframe containing all rows (incl. the first instance) that are duplicates in terms of this column in a new dataframe dfdup.
+
+How many rows would you have left in your subdataframe dfdup of duplicates if you only kept one of each duplicate?
+
+
+-----------------------------------------------------------
+
+*** DECISION MAKING ***
+
+1-
+Suppose that you are the marketing director of a retail company. Your company creates, prints, and distributes weekly price promotion leaflets to attract new and existing shoppers. To encourage people to read the leaflets, they contain a crossword puzzle every week. There is a box in every store where the solution can be placed, and you reward 30 randomly selected respondents with a HUF 15,000 voucher. On average, 9,320 people solve the crossword and place the solution to the box, with a standard deviation of 1,795.
+
+You would like to increase the attractiveness of the crossword puzzle and decide to provide a HUF 20,000 voucher to the selected 30 people. The first 60 weeks of data show that on average 9,820 people solved the crossword.
+
+Execute a hypothesis test in Excel on the increase of the number of people solving the crossword. (5 points)
+Calculate the p-value in Excel. (5 points)
+Evaluate (on 5% significance level) whether there is enough statistical evidence that the number of people solving the crossword has increased. (10 points)
+Please also upload the Excel file containing your answers.
+
+2-A small computer chip manufacturer wants to forecast monthly operating costs as a function of the number of units produced during a month. The company has collected the 16 months of data in the file Exam_2021-22-2_task4_vA.xlsx.
+
+Determine an equation that can be used to predict monthly production costs from units produced. Is the model and the estimated parameters significant at 5% level? Explain your answer. (10 points)
+Are there any outliers? (5 points)
+How could the regression line obtained in the previous point be used to determine whether the company was efficient or inefficient during any particular month? (10 points)
+Please also upload the Excel file containing your answers.
+
+3-You would like to understand how a government environmental policy is welcomed by different people. You executed a survey of 399 people regarding this new policy. Results are in the Exam_2021-22-2_task2_vA.xlsx Excel file.
+
+Create a crosstab and an associated column chart for Age versus Opinion in Excel. Pay attention to the logical ordering of the opinions (Strongly agree – Strongly disagree) and that the table and the chart is following it. (5 points)
+Express the counts as percentages (using a new crosstab) so that for either age groups, the percentages add up to 100%. Add a new Excel column chart and also explain the results verbally. (5 points)
+Discuss your findings. Specifically, do the different age groups tend to differ in their opinions about the environmental policy? (5 points)
+Please also upload the Excel file containing your answers.
+
+4-A pharmaceutical company has 16% attrition that is exceptionally high compared to its main competitors. The new HR director would like to take actions to reduce this attrition rate. You were asked to help his job by analysing corporate HR data (Exam_2021-22-2_task5_vA.csv dataset) using advanced analytics. The task is to identify the most important factors leading to attrition. The HR department can use this information to create an action plan.
+
+Execute a classification analysis in Orange and answer the following questions:
+
+Identify the five most important factors related to attrition using Information Gain. (5 points)
+Based on the results of the Naïve Bayes method, explain how these five factors affect attrition. (10 points)
+Evaluate the results based on the percent correctly predicted (there is no need to separate a train and a test dataset). (10 points)
+Please also upload the Orange Workflow file (.ows) you created.
+
+5-Assume that you are the manager of a market research company that was tasked to survey the beverage offerings of bars located in Bulgaria. The requirement is to visit 350 bars. You received a dataset containing all the Bulgarian bars (total of 53,462) and their location data (full address).
+
+Calculate the sampling proportion. (5 points)
+Suggest the best sampling strategy. Take care of the adequate geographical coverage of the sample. (10 points)
+
+
