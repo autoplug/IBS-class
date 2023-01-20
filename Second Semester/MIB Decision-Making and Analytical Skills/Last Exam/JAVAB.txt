@@ -1,0 +1,51 @@
+4-a)
+
+The five most important factors related to information gain are :
+
+1.      Job role with information gain of 0.044
+
+2.      Overtime with information gain of 0.040
+
+3.      Joblevel with information gain of 0.036
+
+4.      Stockoptionlevel with information gain of 0.030
+
+5.      Monthly income with information gain of 0.030
+
+b)
+
+Sales representative:
+
+When it comes to a sales representative the probability that workers between level 2 and  3 levels of job   have 15% probability of attrition. Additionally, a job involvement point of within 2 to 3 have cover 60% of the data and a job involvement of 1 to 2 cover 40% of the data the over probability of attrition is 15%, more than 2 years in the company and a sales representative who travel rarely have attrition probability of 15% and no attrition probability of 61%.
+
+Manager:
+
+When it comes to an manager the probability that workers between level 2 and  3 levels of job  have 5% probability of attrition. Additionally, a job involvement point of within 2 to 3 have cover 60% of the data and a job involvement of 1 to 2 cover 40% of the data the over probability of attrition is 5%, more than 2 years in the company and a sales representative who travel rarely have attrition probability of 5% and no attrition probability of 0%.
+
+c)
+TRUE POSITIVE - True Positive (TP) is an outcome where the model correctly predicts the positive class.
+
+True Positive rate for the Naïve Bayes method is 143, which is 100 points less than the original positive value. The model can correctly predict 44.3% of “yes” attrition categories
+
+ 
+
+TRUE NEGATIVE: True Negative (TN) is an outcome where the model correctly predicts the negative class.
+
+The true negative rate is 1053, which is less than the actual predicted value. Therefore, the model can predict 91.8% of no attrition categories
+
+The increased value of TN than TP might be due to the imbalanced dataset.
+
+5-a) 
+
+Total:53462
+
+N= 350
+
+Sampling proportion: N/total:350/53462=0.00654
+
+
+
+b)
+
+Cluster sampling is the best for geographical area. A cluster instance is a probabilistic instance in which each sampling unit is a set or group of members. There can be several reasons for using cluster sampling. If the cost of providing a framework that lists all members of the community is high, or if the cost of providing observations increases with increasing distance between members, cluster sampling is less expensive than simple or stratified random sampling. To check all the cafes and bars in Bulgaria, we have to divide the country into specific areas such as blocks (clusters of members) and select a simple random sample from the blocks of this community and put the city of each  bars in blocks. Which is located in the sample to measure to find out how much to buy them. This is done using a framework that lists all the city blocks. Another reason to use cluster sampling is to collect data at a lower cost. For this question, we need to compile a list of city population who visit bars regularly , and we want to provide a simple random sample of different households scattered throughout the city. The cost of interviewing people in bars is high due to the cost of the questioner's travel and other costs. One way to reduce travel costs is to use cluster sampling, because people within a cluster must be geographically close to each other. Depending on their zip code, license plate, street, etc.
+

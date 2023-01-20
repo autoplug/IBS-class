@@ -1,0 +1,7 @@
+According to the case to be investigated, we have two strategies that can be considered for this case.
+first is StratifiedSampling and the other is Cluster Sampling.
+The first issue is to find the statistical population Because considering the statistical population, it can influence our choice.
+we choose schools to get the statistics because most of the kids tend to use the game services.
+we can divided population into diffrent city in country.
+I think in this situation it is better to use cluster sampling. so every city we can consider as cluster.
+then we can choose randomly between clusters(or cities).by choosing cluster sampling it seems We bear less cost because if we use StratifiedSampling we need to get sample from all cities and it has a lot of cost and time.

@@ -1,0 +1,5 @@
+since the R Square with value of 0.07 and multipleR with value 0.26 is very low we can conclude that there is no strong linear relation between grade and Student evaluation of teaching.
+Although the p-value is less that 5% that it means that we reject H0.
+H0 in this sample means that the intercept is zero.by rejecting H0 we can conclude that the formula for regression is :
+
+Student evaluation of teaching = Grade * 0.248 + 3.15

@@ -1,0 +1,4 @@
+Based on information gain we have five factor as below:
+1. jobrol with information gain 0.98383
+ 2. 3. 4. 5.
+
