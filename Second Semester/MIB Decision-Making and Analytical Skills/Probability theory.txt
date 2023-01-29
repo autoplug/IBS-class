@@ -1,0 +1,19 @@
+DECISION MAKING EXAM
+
+Probability theory
+Different sampling strategies(theory)
+There is a problem of estimation you should indicate… discuss the advantages of executing a random survey example average general income what is the best sampling strategy simple random, systematic sampling…know the main types, their pros and cons.
+Confidence interval for proportion(z-multiple) and average(t-multiple) calculate the 95% C.I.
+Hypothesis Testing (proportion and average)
+Regression beta parameter r square significance value check if the model and parameters of the model are okay (data analysis)
+Cross-Tabulation (pivot tables, data analysis)
+Analysis of Variance - ANOVA (pivot tables)
+Classification (orange)
+Sentiment analysis (orange)
+
+MOODLE Sample Case study.
+2 hours, 20 minutes and 5 questions.
+Upload the excel file in Moodle
+
+Check the size of the dataset, large datasets are worth separating into tests (test the selection) and trained (estimate the variables) data set
+Focus on interpretation. It is nice to have the result, but you must. Show that you understand what the result means and you satisfy the target requirement
