@@ -1,0 +1,18 @@
+Predicting successfulness of advertisments
+----------------------------------------------
+What would you do differently if you could re-start completing the Coding Project?
+
+Reflecting on my Coding Project, there are several things I would do differently if I could restart. First, I would start by visualizing user behavior, as I believe it provides valuable insights into user interactions. 
+Second, I would conduct more thorough research on similar projects and best practices before starting, ensuring that I am well-equipped with the knowledge and tools necessary to tackle the problem effectively. 
+Third, I would focus on better project planning, defining the problem more clearly and outlining the steps needed to solve it.
+Finally, I would work on improving my time management skills to ensure that I stay on track and meet my deadlines more effectively. Overall, I believe that by implementing these changes, I could produce a higher quality project in a more efficient manner.
+----------------------------------------------
+How are your results applicable in a business context?
+
+The results of this project have several practical applications in a business context. By accurately predicting user clicks on ads, businesses can optimize their advertising strategies, leading to higher conversion rates and increased revenue. Understanding user behavior and preferences allows businesses to target their ads more effectively, ensuring that they reach the right audience at the right time. Additionally, by analyzing user behavior patterns, businesses can gain valuable insights into customer preferences, allowing them to tailor their products and services to better meet customer needs. Overall, the results of this project can help businesses improve their advertising effectiveness, increase customer engagement, and drive business growth.
+----------------------------------------------
+What skills have you identified that you have developed during the completion of the coding project, and what skills do you feel you need to develop further in the future?
+
+During the completion of this coding project, I have significantly enhanced my skills in machine learning and data processing. I have gained proficiency in various aspects of data preprocessing, including handling missing values, encoding categorical variables, and scaling features. Additionally, I have developed a deeper understanding of machine learning algorithms and their applications.
+
+Moreover, I have acquired new skills in image generation and XML file parsing, which enabled me to visualize user behavior data effectively. This project has not only strengthened my existing knowledge but has also expanded my skill set, making me more versatile in handling diverse data formats and tasks.
