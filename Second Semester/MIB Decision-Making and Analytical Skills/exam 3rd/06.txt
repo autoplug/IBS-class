@@ -1,0 +1,17 @@
+The attached Exam_SKIB351_2023-24-1_task5_vA.xlsx file contains the individual characteristics of the passengers of Titanic: gender (sex = 1 for males, sex = 2 for females); the class where they travelled on (pclass), age (age) and whether they survived the catastrophe (survived = 1). Create a classification on survival using the Naïve Bayes approach in Orange (using all the other variables). There is no need to create a training and a test sample in this exercise.
+
+Work in Orange and answer the following questions:
+Analyse the effects of class on survival probability by applying the Naïve Bayesian method in Orange. (10 points)
+
+Evaluate the results based on the percent of correctly predicted observations. (15 points)
+
+---------------
+
+
+**First Class** passengers have the highest survival probability, reflecting better access to lifeboats and resources.
+**Second Class** passengers have a moderate survival probability.
+**Third Class** passengers have the lowest survival probability, consistent with historical accounts of the disaster.
+
+These findings align with historical data, where higher-class passengers had a better chance of survival during the Titanic disaster.
+
+The Naïve Bayes model achieved a good level of accuracy in predicting survival on the Titanic, correctly classifying 84% of the test observations. This percentage reflects the model's effectiveness in utilizing the provided features (`pclass`, `age`, and `sex`) to make predictions. However, there is still room for improvement, especially in reducing false positives and false negatives, which could be explored by using more advanced models or incorporating additional features.

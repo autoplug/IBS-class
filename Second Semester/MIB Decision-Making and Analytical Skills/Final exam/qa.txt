@@ -1,0 +1,48 @@
+Suppose that you are the chief marketing officer of a telecommunication company that recently introduced a new video streaming service. Despite widespread marketing activities connected to the launch, number of subscribers did not meet initial expectations. You would like to understand the reasons behind, hence, you are planning to execute a survey asking 2,000 people.
+• What kind of sampling strategy do you recommend (considering time and cost)? (5 points)
+• Collect at least two reasons why this particular sampling strategy is the best one for this case. (2 x 5 points)
+--------------------------------------------------------------
+Suppose that you are the chief financial officer of an FMCG company. As part of the risk assessment of the company, you have to provide an estimate to the financial loss of a potential product recall. To do this, you asked your team to collect data about recent product recalls. You received the Exam SKIB351_2022-23-1_task2_vA.xlsx Excel file.
+
+Calculate the 90% confidence interval of the average financial loss caused by a product recall. (15 points)
+
+Please also upload the Excel file containing your answers.
+--------------------------------------------------------------
+You would like to understand whether the reception of a new government environmental policy is different by income level. You executed a survey or 399 people regarding this new policy. Results are in the Exam_SKIB351_2022-23-1_task3_vA.xlsx Excel file.
+
+• Calculate the average Salary by Opinion in Excel. (5 points)
+
+• Can you observe significant differences in average salary based on Opinion? Explain your answer. (10 points)
+
+• Discuss your findings. Specifically, do people with different salary levels tend to differ in their opinions about the environmental policy? (5 points) 
+
+Please also upload the Excel file containing your answers.
+--------------------------------------------------------------
+Suppose that you are the dean of an internationally renowned business school. At the end of the semester, you are always checking tr_Time left 1:47:1 student evaluation of teaching survey. One of your professors continuously receives rather low scores in these evaluations, therefore you invited him to your office to talk. The professor simply told you that this a natural phenomenon. He is teaching a difficult subject (operation research), students normally receive bad grades, and this is the reason behind the low student evaluation of teaching scores.
+You became curious and downloaded grade and student evaluation of teaching scores for the whole business school (Exam_SKIB351_2022-23-1_task4_vA.xlsx Excel file).
+
+• Evaluate the effect of grade on student evaluation of teaching scores using regression analysis. (8 points)
+
+• Interpret the parameter estimates. (7 points)
+
+• What do you think about the result? Do you believe it? Can it be biased? Why (collect at least two arguments)? (10 points)
+--------------------------------------------------------------
+The attached Exam_SKIB351_2022-23-1_task5_vA.xlsx Excel file contains the individual characteristics of the passengers of Titanic: gender (sex = 1 for males, sex = 2 for females); the class where they travelled on (pclass), age (age) and whether they survived the catastrophe (survived = 1). Create a 65% training sample and run a classification model on survival using the Decision Tree approach in Orange (using all the other variables and maximal tree depth of 5).
+Execute the analysis in Orange and answer the following questions:
+
+• Based on the results of the Decision Tree method, can you observe any connection between class and survival probability? (10 points)
+
+• Evaluate the model based on recall using the test sample (target: survived = 1). Please also interpret this metric. (15 points)
+
+Please also upload the Orange Workflow file (.ows) you created.
+
+
+
+
+
+
+
+
+
+
+

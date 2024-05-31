@@ -1,0 +1,48 @@
+Assume that you are the manager of a market research company that was tasked to survey the beverage offerings of bars located in Austria. The requirement is to visit 400 bars. You received a dataset containing all the Austrian bars (total of 42,534) and their location data (full address).
+
+Calculate the sampling proportion. (5 points)
+
+List the possible sampling strategies together with a justification for each strategy and identify the most appropriate strategy. Take care of the adequate geographical coverage of the sample. (10 points)
+
+---------------------
+
+To calculate the sampling proportion, we need to determine the proportion of the total population (in this case, the total number of bars) that we will be surveying. The formula for the sampling proportion is:
+
+Sampling Proportion = Sample Size/Population Size
+
+Sample Size = 400 bars
+Population Size = 42,534 bars
+
+We can calculate the sampling proportion as follows
+Sampling Proportion = 400/42,534 ~ 0.0094
+
+The sampling proportion is approximately 0.0094, or 0.94%. This means that you will be surveying about 0.94% of the total bars in Austria.
+
+---
+When surveying a large and geographically diverse population like the bars in Austria, choosing an appropriate sampling strategy is crucial to ensure that the sample accurately represents the population.
+
+Stratified Random Sampling
+Divide the population into strata based on specific characteristics (e.g., geographical regions like states or districts).
+Perform random sampling within each stratum to ensure that the sample includes bars from all regions.
+Justification:Ensures that all geographical areas are represented proportionally in the sample, leading to better geographical coverage and more accurate representation of regional variations.
+
+Cluster Sampling
+Divide the population into clusters (e.g., cities or districts).
+Randomly select a number of clusters and then survey all bars within those clusters or randomly select bars within those clusters.
+Justification: Reduces travel and administrative costs by concentrating the survey within selected clusters.Ensures that entire clusters (geographical areas) are represented.
+
+
+Systematic Sampling
+Select every 42534/400=106-th bar from a list of all bars ordered in some systematic way (e.g., alphabetically by name or by address).
+Justification: Ensures a spread of bars across the entire list, potentially leading to a more evenly distributed sample.
+
+
+Recommended Strategy: Stratified Random Sampling
+Geographical Representation: Ensures that all geographical areas are represented proportionally, which is crucial for a study aiming to understand the beverage offerings of bars across Austria.
+
+Accuracy and Reliability: By ensuring that each stratum (geographical area) is appropriately sampled, this method provides a more accurate and reliable representation of the population.
+
+Control over Sample Composition: Allows control over the composition of the sample, ensuring that variations within each region are captured.
+
+
+

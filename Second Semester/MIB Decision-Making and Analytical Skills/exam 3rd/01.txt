@@ -1,0 +1,26 @@
+Beta Technologies recently started a gender equality project. The first part of the project is to understand whether there is any gender pay gap at the company. The company hired you as a consultant for that part of the project and equipped you with the Exam_SKIB351_2023-24-1_task4_vA.xlsx Excel file that contains data on 204 employees at Beta Technologies.
+
+Analyse the data, find the best possible model (10 points) and shortly summarize your findings to Beta Technologies (10 points). In your summary, also assess the performance of your model.
+--------------------------------------------
+
+A multiple linear regression model was utilized to determine the factors influencing annual salary. The independent variables included gender, age, prior experience, Beta Technologies experience, and education. The dependent variable was the annual salary. The gender variable was encoded as a binary variable (0 for female and 1 for male).
+
+
+Gender: The coefficient for gender is 7061.07, which is statistically significant (p < 0.0001). This suggests that, on average, male employees earn $7,061.07 more annually than female employees, after controlling for age, prior experience, Beta Technologies experience, and education.
+
+Age: The coefficient for age is -101.83, which is not statistically significant at the 0.05 level (p = 0.079). This suggests that age does not have a significant impact on salary when other factors are controlled.
+
+Prior Experience: The coefficient for prior experience is 3074.19, which is statistically significant (p < 0.0001). This indicates that each additional year of prior experience is associated with a $3,074.19 increase in annual salary.
+
+Beta Experience: The coefficient for Beta Technologies experience is 2600.99, which is statistically significant (p < 0.0001). This indicates that each additional year of experience at Beta Technologies is associated with a $2,600.99 increase in annual salary.
+
+Education: The coefficient for education is 7413.20, which is statistically significant (p < 0.0001). This suggests that higher education levels are associated with higher salaries, with each additional level of education contributing $7,413.20 to the annual salary.
+
+
+
+
+
+
+
+
+There is a significant gender pay gap at Beta Technologies, with male employees earning significantly more than female employees when controlling for other relevant factors. Additionally, prior experience, Beta Technologies experience, and education are significant predictors of annual salary. Age, however, does not appear to have a significant impact on salary in this model.

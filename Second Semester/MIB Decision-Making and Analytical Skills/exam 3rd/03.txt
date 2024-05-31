@@ -1,0 +1,29 @@
+Suppose that you are the chief financial officer of a production company. As part of the risk assessment, you have to provide an estimate of the financial loss of a potential product recall. To do this, you asked your team to collect data about recent product recalls. You received the Exam_SKIB351_2023-24-1_task2_vA.xlsx Excel file. Calculate the 95% confidence interval of the average financial loss caused by a product recall. (15 points)
+
+Upload the Excel file containing your answers. Simply stating answers without work shown results in 1 point per correct answer.
+
+----------------------
+
+To estimate the financial loss due to a potential product recall, we calculated the 95% confidence interval for the average financial loss based on the provided data. 
+
+The mean financial loss from the sample data is approximately $2,660.52 thousand.
+
+95% Confidence Interval:We are 95% confident that the true average financial loss due to a product recall lies between $2,055.39 thousand and $3,265.65 thousand.
+
+other solution:
+The regression analysis aims to predict the financial loss based on the number of products impacted.
+
+Dependent Variable: Financial loss ($ thousand)
+Independent Variable: Number of products impacted
+
+Intercept (const): 1283.55 (This is the estimated financial loss when the number of products impacted is zero)
+
+Number of products impacted: 0.0092 (This indicates that for every additional product impacted, the financial loss increases by $0.0092 thousand, or $9.2)
+
+Both the intercept and the number of products impacted are statistically significant (p < 0.05), indicating that they are meaningful predictors of financial loss.
+
+
+The predicted financial loss for the average number of products impacted is approximately $2,660.52 thousand.
+
+Lower Bound: $2,128.64 thousand
+Upper Bound: $3,192.40 thousand

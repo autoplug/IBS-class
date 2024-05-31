@@ -1,0 +1,31 @@
+Colruyt Group (a Belgian retailer) will introduce reusable bags for fruit and vegetable purchases (from bulk). The company will eliminate disposable bags from its stores; shoppers will be able to buy the reusable bags if they need a bag. However, Colruyt is planning to provide 5 reusable bags for free to its Xtra loyalty program members. The loyalty program has around 4.2 million members and the cost of one reusable bag is $0.6.
+
+- What is the maximum cost Colruyt has to bear due to its initiative? (4 points)
+
+Colruyt classifies its loyalty program members based on two criteria: activity and responsiveness to special promotions. The distribution of the members is as follows (based on long-term historical data).
+
+Designation Active_member Passive_member
+
+No reaction to promotions 8% 32%
+React to big promotions 24% 15%
+React to every promotion 19% 2%
+
+---------------------------------------------
+The maximum cost Colruyt Group has to bear due to its initiative is $12,600,000.
+
+Calculation of Members in Each Category
+Total Number of Active Members = 8 +24 +19 = 51 ==> 0.51 * 4,200,000 = 2,142,000
+
+Total Number of Passive Members = 32 + 15 + 2 = 49 ==>> 0.49 * 4,200,000 = 2,058,000
+
+Distribution of Active Members:
+No reaction to promotions: 0.08 * 4,200,000 = 336,000
+React to big promotions:  0.24 * 4,200,000 = 1,008,000 
+React to every promotion: 0.19 * 4,200,000 = 798,000 
+
+
+
+Distribution of Passive Members
+- No reaction to promotions:  0.32 * 4,200,000 = 1,344,000 
+- React to big promotions:  0.15 * 4,200,000 = 630,000 
+- React to every promotion:  0.02 * 4,200,000 = 84,000 

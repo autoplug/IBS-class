@@ -1,0 +1,7 @@
+The attached Exam_SKIB351_2023-24-1_task5_vA.xlsx file contains the individual characteristics of the passengers of Titanic: gender (sex = 1 for males, sex = 2 for females); the class where they travelled on (pclass), age (age) and whether they survived the catastrophe (survived = 1). Create a classification on survival using the Naïve Bayes approach in Orange (using all the other variables). There is no need to create a training and a test sample in this exercise.
+
+Work in Orange and answer the following questions:
+
+Analyse the effects of class on survival probability by applying the Naïve Bayesian method in Orange. (10 points)
+Evaluate the results based on the percent of correctly predicted observations. (15 points)
+Upload the Orange Workflow file (.ows) you created. Simply stating answers without work shown results in 1 point for each correct answer.
